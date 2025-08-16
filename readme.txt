@@ -5,9 +5,6 @@ Row four test
 Row fifth test
 Row sixth test
 Attack!!
-<<<<<<< HEAD
 Row seven test
 Row eight test
-=======
-show!!
->>>>>>> feature
+Show!!
