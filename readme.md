@@ -2,5 +2,7 @@ Demo
 
 some content
 
-more bold text 
+more bold text
+
+show plain test
 
